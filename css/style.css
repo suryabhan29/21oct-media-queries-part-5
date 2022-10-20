@@ -68,6 +68,9 @@ header > nav > ul > li{
         height: 200px;
     }
 }
+/*
+    here article target
+*/
 main > section:last-child > article{
     width: 100%;
 }
